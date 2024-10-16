@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yLcenCtdcc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\butac\\source\\repos\\WPFDZ\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\butac\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\butac\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
